@@ -22,6 +22,7 @@
     "backend"
   ],
   "dependencies": {
-    "@serverless-stack/core": "^0.0.0-20220520180925"
+    "@serverless-stack/core": "^0.0.0-20220520180925",
+    "graphql": "^16.5.0"
   }
 }
